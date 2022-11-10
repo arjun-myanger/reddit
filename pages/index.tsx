@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Header from '../components/Header'
 
 export default function Home() {
   return (
@@ -7,6 +8,8 @@ export default function Home() {
       <Head>
         <title>Reddit</title>
       </Head>
+
+      <Header />
     
      
     </div>
