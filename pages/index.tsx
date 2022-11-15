@@ -9,7 +9,7 @@ export default function Home() {
         <title>Reddit</title>
       </Head>
 
-      <Header />
+      {/* <Header /> component moved to index.tsx */}
     
      
     </div>
